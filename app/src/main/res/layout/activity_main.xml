@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.bwei.MoNi_San.activity.MainActivity">
+
+    <Button
+        android:id="@+id/btndonghua"
+        android:onClick="btnDongHua"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="属性动画"/>
+    <Button
+        android:id="@+id/btnQQ"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="QQ登入"/>
+    <Button
+        android:id="@+id/btntouxiang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="上传头像"
+        />
+    <Button
+        android:id="@+id/btnshagnpin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="商品列表"/>
+    <Button
+        android:id="@+id/btnditu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="高德地图"/>
+
+</LinearLayout>

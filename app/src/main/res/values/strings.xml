@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoNi_San</string>
+    <string name="title_activity_dong_hua">DongHuaActivity</string>
+    <string name="title_activity_qq">QQActivity</string>
+    <string name="title_activity_tou_xiang">TouXiangActivity</string>
+    <string name="title_activity_lie_biao">LieBiaoActivity</string>
+    <string name="title_activity_di_tu">DiTuActivity</string>
+</resources>
